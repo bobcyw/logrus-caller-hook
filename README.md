@@ -1,4 +1,4 @@
-# logrus-caller-hook [![Build Status](https://travis-ci.org/bobcyw/logrus-caller-hook.svg?branch=master)](https://travis-ci.org/bobcyw/logrus-caller-hook)
+# logrus-caller-hook [![Build Status](https://travis-ci.org/bobcyw/logrus-caller-hook.svg?branch=master)](https://travis-ci.org/bobcyw/logrus-caller-hook) [![Coverage Status](https://coveralls.io/repos/github/bobcyw/logrus-caller-hook/badge.svg?branch=master)](https://coveralls.io/github/bobcyw/logrus-caller-hook?branch=master)
 Solve logrus's caller problem
 
 By default:
