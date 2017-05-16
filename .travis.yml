@@ -6,8 +6,11 @@ go:
   - tip
 env:
   - GOMAXPROCS=4 GORACE=halt_on_error=1
+before_install:
+  - go get github.com/mattn/goveralls
 install:
   - go get github.com/stretchr/testify/assert
   - go get github.com/bobcyw/logrus
 script:
   - go test -race -v .
+  - goveralls -service=travis-ci
