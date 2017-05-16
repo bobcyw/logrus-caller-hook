@@ -1,5 +1,5 @@
-# logrus-caller-hook [![Build Status](https://travis-ci.org/bobcyw/logrus-logstash-hook.svg?branch=master)](https://travis-ci.org/bobcyw/logrus-logstash-hook)
-solve logrus's caller problem
+# logrus-caller-hook [![Build Status](https://travis-ci.org/bobcyw/logrus-caller-hook.svg?branch=master)](https://travis-ci.org/bobcyw/logrus-caller-hook)
+Solve logrus's caller problem
 
 By default:
 ```go
